@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name":"Frank", "photo":"./img/Frank.avif", "age": 15, "dni":72536951, "maritalStatus":"s"},
+    {"id": 2, "name":"Rogger", "age": 18,"dni":12548875, "maritalStatus":"c"},
+    {"id": 3, "name":"Luis", "age": 20,"dni":89874456, "maritalStatus":"c"},
+    {"id": 4, "name":"Felipe", "age": 19,"dni":56569985, "maritalStatus":"s"},
+    {"id": 5, "name":"Rosa", "age": 17,"dni":78895652, "maritalStatus":"d"},
+    {"id": 6, "name":"Miguel", "age": 20,"dni":89655684, "maritalStatus":"s"}
+]
